@@ -1,0 +1,6 @@
+{
+  "name": "ITxMech RespiCare",
+  "description": "Hệ thống AIoT hỗ trợ theo dõi hô hấp - Nền tảng bác sĩ theo dõi SpO₂ và phân tích âm phổi chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
